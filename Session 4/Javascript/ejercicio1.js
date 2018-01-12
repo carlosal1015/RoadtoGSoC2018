@@ -1,12 +1,12 @@
 let Social_Network = {
-	name : 'Fiorella',
-	created : 20,
+	name : 'Oromion',
+	created : 522,
 	comentarios : [
 		{
-			name: "Isaias",
-			comment: "Buen dia"
+			name: "GSoC",
+			comment: "Session 4"
 		},
-		{name:"Brian", comment:"Mal dia"},
+		{name:"Julita", comment:"GTK Javascript"},
 		{}
 	]
 }
